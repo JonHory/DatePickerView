@@ -123,7 +123,6 @@
 				TargetAttributes = {
 					BBA1B8FE1DF00CD500A4262E = {
 						CreatedOnToolsVersion = 8.1;
-						DevelopmentTeam = 4EHUQSUYU5;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -287,7 +286,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4EHUQSUYU5;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = YXDatePickerView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -300,7 +299,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4EHUQSUYU5;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = YXDatePickerView/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -328,6 +327,7 @@
 				BBA1B9181DF00CD500A4262E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

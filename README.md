@@ -1,5 +1,7 @@
 简单易用的时间选择器
 
+![](http://ww2.sinaimg.cn/large/c6a1cfeagw1fabmengnjdj20kd0yegn7.jpg)
+
 声明
 
 `@property (nonatomic ,strong) YXDatePickerView * datePickerView;`
